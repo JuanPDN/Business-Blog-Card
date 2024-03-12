@@ -546,12 +546,20 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.top-3{
+  top: 0.75rem;
+}
+
 .top-8{
   top: 2rem;
 }
 
 .m-8{
   margin: 2rem;
+}
+
+.m-16{
+  margin: 4rem;
 }
 
 .mx-4{
@@ -562,6 +570,11 @@ video {
 .my-5{
   margin-top: 1.25rem;
   margin-bottom: 1.25rem;
+}
+
+.my-8{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
 .flex{
@@ -660,10 +673,6 @@ video {
   padding: 0.25rem;
 }
 
-.p-8{
-  padding: 2rem;
-}
-
 .px-8{
   padding-left: 2rem;
   padding-right: 2rem;
@@ -677,6 +686,10 @@ video {
 .py-8{
   padding-top: 2rem;
   padding-bottom: 2rem;
+}
+
+.pt-8{
+  padding-top: 2rem;
 }
 
 .font-lato{
