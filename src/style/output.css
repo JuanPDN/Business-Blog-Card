@@ -546,6 +546,18 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.top-8{
+  top: 2rem;
+}
+
+.top-32{
+  top: 8rem;
+}
+
+.m-8{
+  margin: 2rem;
+}
+
 .mx-4{
   margin-left: 1rem;
   margin-right: 1rem;
@@ -554,6 +566,10 @@ video {
 .my-5{
   margin-top: 1.25rem;
   margin-bottom: 1.25rem;
+}
+
+.mt-8{
+  margin-top: 2rem;
 }
 
 .flex{
@@ -566,10 +582,6 @@ video {
 
 .h-full{
   height: 100%;
-}
-
-.h-dvh{
-  height: 100dvh;
 }
 
 .w-\[418px\]{
@@ -660,6 +672,10 @@ video {
   padding: 0.25rem;
 }
 
+.p-8{
+  padding: 2rem;
+}
+
 .px-8{
   padding-left: 2rem;
   padding-right: 2rem;
@@ -668,6 +684,11 @@ video {
 .py-5{
   padding-top: 1.25rem;
   padding-bottom: 1.25rem;
+}
+
+.py-8{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 
 .font-lato{
