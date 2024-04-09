@@ -546,16 +546,8 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.top-8{
-  top: 2rem;
-}
-
-.top-32{
-  top: 8rem;
-}
-
-.m-8{
-  margin: 2rem;
+.m-4{
+  margin: 1rem;
 }
 
 .mx-4{
@@ -566,15 +558,6 @@ video {
 .my-5{
   margin-top: 1.25rem;
   margin-bottom: 1.25rem;
-}
-
-.my-4{
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-}
-
-.mt-8{
-  margin-top: 2rem;
 }
 
 .flex{
@@ -591,6 +574,10 @@ video {
 
 .w-\[418px\]{
   width: 418px;
+}
+
+.max-w-\[418px\]{
+  max-width: 418px;
 }
 
 .grow{
@@ -623,6 +610,10 @@ video {
 
 .overflow-hidden{
   overflow: hidden;
+}
+
+.overflow-y-auto{
+  overflow-y: auto;
 }
 
 .rounded-full{
@@ -677,10 +668,6 @@ video {
   padding: 0.25rem;
 }
 
-.p-8{
-  padding: 2rem;
-}
-
 .px-8{
   padding-left: 2rem;
   padding-right: 2rem;
@@ -689,11 +676,6 @@ video {
 .py-5{
   padding-top: 1.25rem;
   padding-bottom: 1.25rem;
-}
-
-.py-8{
-  padding-top: 2rem;
-  padding-bottom: 2rem;
 }
 
 .font-lato{
